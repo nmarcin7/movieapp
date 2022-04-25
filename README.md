@@ -1,4 +1,4 @@
-# new_workout_app
+# Movie App
 
 A new Flutter application.
 
